@@ -1,0 +1,9 @@
+14:26:37 **** Incremental Build of configuration Nios II for project HELLO ****
+make all 
+Info: Building ../HELLO_bsp/
+C:/altera/14.1.0.186/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../HELLO_bsp/
+[BSP build complete]
+[HELLO build complete]
+
+14:26:38 Build Finished (took 840ms)
+

@@ -1,0 +1,19 @@
+Fitter Status : Successful - Tue Dec 16 14:32:28 2014
+Quartus II 64-Bit Version : 14.1.0 Build 186 12/03/2014 SJ Full Version
+Revision Name : DE0_NANO_SOC_LT24_NIOS
+Top-level Entity Name : DE0_NANO_SOC_LT24_NIOS
+Family : Cyclone V
+Device : 5CSEMA4U23C6
+Timing Models : Final
+Logic utilization (in ALMs) : 1,588 / 15,880 ( 10 % )
+Total registers : 2434
+Total pins : 66 / 314 ( 21 % )
+Total virtual pins : 0
+Total block memory bits : 1,823,936 / 2,764,800 ( 66 % )
+Total DSP Blocks : 3 / 84 ( 4 % )
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 1 / 5 ( 20 % )
+Total DLLs : 0 / 4 ( 0 % )
